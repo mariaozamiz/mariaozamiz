@@ -8,7 +8,7 @@ My name is María and I'm a frontend developer!
 
 ### 👩‍💻 I’m currently working on... 
 - [A ceramic online store built with Redux](https://github.com/mariaozamiz/gallery). 🍶 *Yep, on my spare time I do some pottery!*
-- [Wes Bos JavaScript 30 Challange](https://github.com/mariaozamiz/javascript-30). 💪 *Building up my JavaScript core*
+- [Wes Bos JavaScript 30 Challange](https://github.com/mariaozamiz/javascript-30). 💪 *Building up my JavaScript core strength*
 - Refactoring old proyects. 🧰 *As I keep learning I love to try new approaches on my code*
 
 ### 📚 I’m currently learning about...
