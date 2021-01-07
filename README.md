@@ -7,7 +7,8 @@ My name is María and I'm a frontend developer!
 
 
 ### 👩‍💻 I’m currently working on... 
-- [A ceramic online store built with Redux](https://github.com/mariaozamiz/gallery). 🍶  *Yep, on my spare time I do some pottery!*
+- An [art ecommerce](https://github.com/mariaozamiz/gallery) built with React hooks and Redux.
+- A [vanilla JS crossword](https://github.com/mariaozamiz/crossword-ha) project for the [Historia Arte (HA!)](https://historia-arte.com/) site. 
 - Refactoring or adding new features to old projects. 🧰  *As I keep learning I love to try new approaches on my code*
 
 ### 📚 I’m currently learning about...
