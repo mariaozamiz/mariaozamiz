@@ -7,9 +7,9 @@ My name is María and I'm a frontend developer!
 
 
 ### 👩‍💻 I’m currently working on... 
-- An [art ecommerce](https://github.com/mariaozamiz/gallery) built with React hooks and Redux.
-- A [vanilla JS crossword](https://github.com/mariaozamiz/crossword-ha) project for the [Historia Arte (HA!)](https://historia-arte.com/) site. 
-- Refactoring or adding new features to old projects. 🧰  *As I keep learning I love to try new approaches on my code*
+- 🛍️ An [art ecommerce](https://github.com/mariaozamiz/gallery) built with React hooks and Redux.
+- 🧩 A [vanilla JS crossword](https://github.com/mariaozamiz/crossword-ha) project for the [Historia Arte (HA!)](https://historia-arte.com/) site. 
+- 🧰 Refactoring or adding new features to old projects. As I keep learning I love to try new approaches on my code!
 
 ### 📚 I’m currently learning about...
 - Redux ⚛️
