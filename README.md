@@ -15,4 +15,3 @@ My name is María and I'm a frontend developer!
 - Redux
 - Firebase
 - Modern JavaScript
-- Testing
