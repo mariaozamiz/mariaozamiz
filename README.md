@@ -11,6 +11,8 @@ My name is María and I'm a frontend developer!
 - Refactoring or adding new features to old projects. As I keep learning I love to try new approaches on my code!
 
 ### 📚 I’m currently learning about...
-- Redux
-- Firebase
-- Modern JavaScript
+- Vue
+- Web Components
+
+### 📚 I’m currently reading...
+- CSS Secrets by Lea Verou
