@@ -15,6 +15,3 @@ My name is María and I'm a frontend developer!
 ### 📚 I’m currently learning about...
 - Vue
 - Web Components
-
-### 📚 I’m currently reading...
-- CSS Secrets by Lea Verou
