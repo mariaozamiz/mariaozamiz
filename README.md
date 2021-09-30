@@ -9,5 +9,6 @@ My name is María and I'm a frontend developer!
 
 ### 📚 I’m currently learning about...
 - TypeScript
+- Next.js
 - Storybook
 - Styled Components
