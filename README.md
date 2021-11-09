@@ -12,3 +12,4 @@ My name is María and I'm a frontend developer!
 - Next.js
 - Storybook
 - Styled Components
+- GraphQL
