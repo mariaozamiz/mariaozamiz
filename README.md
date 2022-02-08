@@ -1,5 +1,3 @@
-![María Ozámiz](https://pbs.twimg.com/profile_banners/1266826504937357312/1598267215/1500x500)
-
 ## Hi there! 👋
 
 My name is María and I'm a frontend developer!  
